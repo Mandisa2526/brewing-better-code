@@ -1,3 +1,4 @@
+[![Node.js CI](https://github.com/Mandisa2526/brewing-better-code/actions/workflows/ci.yml/badge.svg)](https://github.com/Mandisa2526/brewing-better-code/actions/workflows/ci.yml)
 # Introduction to Design Patterns: Brewing Better Code with Coffee Examples
 
 Welcome to this hands-on tutorial on design patterns! In this series, we will demystify some of the most commonly used design patterns in software development through the engaging and familiar theme of coffee. 
